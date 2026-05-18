@@ -1300,7 +1300,7 @@ body {
   display: none;
 
   font-size: 30px;
-  color: #111827;
+  color: white;
 
   cursor: pointer;
 }
@@ -1320,7 +1320,7 @@ body {
     z-index: 5;
     width: 280px;
     height: 45vh;
-
+     color: black;
     background: white;
 
     display: flex;
