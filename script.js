@@ -1,6 +1,5 @@
-/* MENU BUTTON */
 const menuBtn = document.getElementById("menuBtn");
-const navLinks = document.getElementById("navLinks");
+const navLinks = document.getElementById("nav-links");
 
 /* TOGGLE MENU */
 menuBtn.addEventListener("click", () => {
