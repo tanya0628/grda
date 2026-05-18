@@ -1320,7 +1320,7 @@ body {
     z-index: 5;
     width: 280px;
     height: 45vh;
-     color: black;
+     
     background: white;
 
     display: flex;
@@ -1348,6 +1348,7 @@ body {
 
   .nav-links a {
     font-size: 18px;
+       color: black;
   }
 }
 /* =========================
