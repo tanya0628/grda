@@ -1306,6 +1306,7 @@ body {
 /* MOBILE MENU */
 @media (max-width: 768px) {
   .menu-btn {
+    color: white;
     display: block;
     z-index: 1001;
   }
@@ -1318,7 +1319,7 @@ body {
     z-index: 5;
     width: 280px;
     height: 45vh;
-
+    color: #020617;
     background: white;
 
     display: flex;
@@ -1341,11 +1342,13 @@ body {
   }
 
   .nav-links li {
+
     width: 100%;
   }
 
   .nav-links a {
     font-size: 18px;
+    color: black;
   }
 }
 /* =========================
