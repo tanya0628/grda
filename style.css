@@ -1306,7 +1306,7 @@ body {
 /* MOBILE MENU */
 @media (max-width: 768px) {
   .menu-btn {
-    color: white;
+    color: #d4a017;
     display: block;
     z-index: 1001;
   }
